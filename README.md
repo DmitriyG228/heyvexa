@@ -50,4 +50,4 @@ Built on top of the **[Vexa real‑time transcription API](https://github.com/Ve
 ### 🤝 Call for Collaboration
 
 We're looking for **backend hackers, prompt engineers, TTS/LLM enthusiasts, DevRel storytellers, and testers** to help build this in the open.
-👉 Hop into the [Discord](https://discord.gg/vexa), pick an issue, and say *"Hey Vexa, I'm in!"*
+👉 Hop into the [Discord](https://discord.gg/Ga9duGkVz9), pick an issue, and say *"Hey Vexa, I'm in!"*
