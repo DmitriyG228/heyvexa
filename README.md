@@ -2,6 +2,8 @@
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+[![Join Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Ga9duGkVz9)
+
 **Vexa Main Project Repo** [![Parent repo stars](https://img.shields.io/github/stars/Vexa-ai/vexa?style=social&label=⭐)](https://github.com/Vexa-ai/vexa/stargazers)
 
 
@@ -42,6 +44,7 @@ Built on top of the **[Vexa real‑time transcription API](https://github.com/Ve
 
 * Replace LLM call with the MCP-enabled agent
 
+[![Join Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/Ga9duGkVz9)
 ---
 
 ### 🤝 Call for Collaboration
